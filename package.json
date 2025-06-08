@@ -2,6 +2,6 @@
   "name": "animejs",
   "version": "1.0.0",
   "scripts": {
-    "start": "bun run start"
+    "start": "bun js/main.js"
   }
 }
